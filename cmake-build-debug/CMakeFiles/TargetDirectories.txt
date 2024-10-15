@@ -1,0 +1,3 @@
+C:/Users/adeyi/CLionProjects/CarSales/cmake-build-debug/CMakeFiles/CarSales.dir
+C:/Users/adeyi/CLionProjects/CarSales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adeyi/CLionProjects/CarSales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
